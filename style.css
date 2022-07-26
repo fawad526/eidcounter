@@ -1,0 +1,50 @@
+*{
+    padding:0;
+    margin:0;
+}
+h1{
+    
+font-size:5rem;
+color:white;
+font-family: Arial sans-serif Helvetica;
+}
+body{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    align-items: center;
+ flex-direction: column; 
+ background-image: url(https://images.unsplash.com/photo-1527842891421-42eec6e703ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGVpZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);  
+}
+p{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    align-items: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-style:normal;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.countdown-container{
+    display: flex;
+    padding: 5px;
+}
+.container{
+    padding: 4rem;
+
+}
+span{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-style:normal;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+}
+.big-text{
+    text-align: center;
+}
